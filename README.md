@@ -1,9 +1,9 @@
 # Vibecode-
 Kill the code, Get the high score
 # Controls:
-WASD - Move
-Mouse - Look around
-Left Click - Shoot
+WASD - Move\n
+Mouse - Look around\n
+Left Click - Shoot\n
 # Reflection:
 1. I made an endless 3D FPS game where the player is tasked with destroying code snippets as they slowly take over the map. It has a health system, movements, and a kill count.
 2. I used HTML and JavaScript
